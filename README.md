@@ -51,7 +51,11 @@ fiberAPCNTshellcodeloader is a C++ project designed to load and execute shellcod
 ## Detection and Bypass
 
 - **VirusTotal Detection**: This project has a detection rate of 6 on VirusTotal. You can view the detailed report [here](https://www.virustotal.com/gui/file/514ae9d173b5a701fd51ff0f70dcc9c823cfe842aa80efb13db91d7bdf0f2aa8/detection).
-- **Bypass**: Successfully bypasses 360 Total Security and Huorong (火绒).
+![Detecetion Rate](https://i.meee.com.tw/G3NDe2F.png)
+- **Bypass (CobaltStrike Beacon Payload)**: Successfully bypasses 360 Total Security and Huorong (火绒).
+![360 Machine](https://i.meee.com.tw/viBRBqM.png)
+![CobaltStrike Console](https://i.meee.com.tw/UHIk9ZS.png)
+![CobaltStrike VNC](https://i.meee.com.tw/0ggURDe.png)
 
 ## Disclaimer
 
